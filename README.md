@@ -1,4 +1,4 @@
-# 📊 Alura Store Latam - Análisis de Rendimiento de Tiendas
+# 📊 Alura Store - Análisis de Rendimiento de Tiendas
 
 ## 📋 Descripción del Proyecto
 
@@ -43,9 +43,10 @@ Aquí se detalla un análisis de datos a gran escala enfocado en evaluar el éxi
 ## 📁 Estructura del Proyecto
 
 ```text
-Store/ 
+alura_store/ 
 │ 
 ├── AluraStoreLatam.ipynb   # Notebook principal con todo el análisis 
 ├── README.md               # Este archivo 
 ├── requirements.txt 
 └── assets
+
