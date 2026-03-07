@@ -49,4 +49,37 @@ alura_store/
 ├── README.md               # Este archivo 
 ├── requirements.txt 
 └── assets
+```
+
+## 🚀 Cómo Ejecutar el Proyecto
+
+### Opción 1: Google Colab (Recomendado)
+* Haz clic en el badge "Open in Colab" al inicio de este README.
+* El notebook se abrirá en Google Colab.
+* Ejecuta las celdas secuencialmente (Runtime > Run all).
+
+### Opción 2: Entorno Local
+
+Clona el repositorio:
+```bash
+git clone [https://github.com/eppursimuove9/alura-store](https://github.com/eppursimuove9/alura-store)
+cd Store
+```
+
+pip install pandas matplotlib seaborn folium jupyter
+
+jupyter notebook alura-store.ipynb
+
+
+📊 Visualizaciones Destacadas
+
+El notebook incluye múltiples visualizaciones profesionales:
+
+
+
+
+
+
+
+
 
