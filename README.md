@@ -84,13 +84,14 @@ jupyter notebook alura-store.ipynb
 El notebook incluye múltiples visualizaciones profesionales:
 
 
-![Costo de Envío Promedio y Calificación de Clientes](costo_envio_promedio_y_calificacion_cliente.png)
+![Costo de Envío Promedio y Calificación de Clientes](assets/costo_envio_promedio_y_calificacion_cliente.png)
 
-![Ingresos Totales](ingresos_totales_facturacion_por_tienda.png)
+![Ingresos Totales](assets/ingresos_totales_facturacion_por_tienda.png)
 
-![Top 10 Ciudades por Facturación](top_10_ciudades_por_facturacion.png)
+![Top 10 Ciudades por Facturación](assets/top_10_ciudades_por_facturacion.png)
 
-![Ventas por Categoría Filtrada por Tiendas](ventas_por_categoria_y_tienda.png)
+![Ventas por Categoría Filtrada por Tiendas](assets/ventas_por_categoria_y_tienda.png)
+
 
 
 
