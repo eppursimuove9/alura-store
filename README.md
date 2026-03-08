@@ -10,6 +10,7 @@ Aquí se detalla un análisis de datos a gran escala enfocado en evaluar el éxi
 
 ## 🎯 Metas del Proyecto
 
+* Entregar el Insight necesario a Don Juan para que decida que tienda debe vender.
 * Analizar la rentabilidad operativa y la facturación por sede.
 * Descubrir oportunidades comerciales según la categoría de los productos.
 * Monitorear la retención y el agrado del cliente mediante sus calificaciones.
@@ -70,14 +71,18 @@ git clone [https://github.com/eppursimuove9/alura-store](https://github.com/eppu
 cd Store
 ```
 
+```bash
 pip install pandas matplotlib seaborn folium jupyter
+```
 
+```bash
 jupyter notebook alura-store.ipynb
-
+```
 
 📊 Visualizaciones Destacadas
 
 El notebook incluye múltiples visualizaciones profesionales:
+
 
 
 
