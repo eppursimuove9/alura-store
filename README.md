@@ -93,6 +93,29 @@ El notebook incluye múltiples visualizaciones profesionales:
 ![Ventas por Categoría Filtrada por Tiendas](assets/ventas_por_categoria_y_tienda.png)
 
 
+## 🔍 Principales Hallazgos (Evaluación de Portafolio)
+
+### ✅ Fortalezas Identificadas
+* **Tienda 1 (Alto Valor Comercial):** Líder indiscutible en facturación bruta con más de $1,150M, posicionándola como el activo con la mayor valoración de mercado.
+* **Tienda 3 (Excelencia en Servicio):** Presenta el mejor equilibrio operativo y la calificación promedio más alta por parte de los clientes (4.05 estrellas).
+* **Tienda 4 (Eficiencia Logística):** Destaca por tener los costos de envío más bajos y competitivos de toda la cadena.
+* **Demanda Homogénea:** Las categorías de Muebles y Electrónicos mantienen una alta rotación constante y predecible en todas las ubicaciones.
+
+### ⚠️ Riesgos Operativos Detectados
+* **Tienda 1 (Ineficiencia Oculta):** A pesar de su alto volumen de ingresos, registra los costos logísticos más altos de la cadena ($26,018 promedio) y el menor nivel de satisfacción del cliente (3.98 estrellas). Esto representa un riesgo operativo creciente a largo plazo.
+* **Tienda 4 (Volumen de Ventas):** Presenta el menor nivel de facturación bruta, aunque lo compensa estructuralmente con su alta eficiencia en costos de transporte.
+
+
+
+## 💡 Recomendación Estratégica: Venta de la Tienda 1
+
+Considerando el objetivo principal de levantar capital para el desarrollo de un nuevo emprendimiento sin comprometer la solidez de la cadena actual, **se recomienda proceder con la venta estratégica de la Tienda 1**. 
+
+Esta decisión corporativa se fundamenta en tres pilares:
+
+1. **Maximización del Retorno (Cash-Out):** Al ser la sucursal con mayor nivel de ingresos históricos, asegura la valoración de mercado más alta, garantizando el flujo de capital necesario para el inversionista.
+2. **Transferencia de Riesgos Operativos:** Permite desprenderse del activo con los mayores costos logísticos y problemas de retención de clientes, cediendo el desafío de optimización al nuevo comprador.
+3. **Consolidación de Activos Eficientes:** El portafolio restante conservará las operaciones más sanas: la estabilidad de la Tienda 2, la alta fidelización de la Tienda 3 y la eficiencia en distribución de la Tienda 4.
 
 
 
