@@ -119,6 +119,15 @@ Esta decisión corporativa se fundamenta en tres pilares:
 
 
 
+## 📄 Licencia
+
+Este proyecto es de código abierto y está disponible bajo la licencia MIT.
+
+## 📧 Contacto
+
+* **Autor:** Alex Rojas Segovia
+* **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/alexrojassegovia/)
+* **Repositorio:** [github.com/eppursimuove9/alura-store](https://github.com/eppursimuove9/alura-store)
 
 
 
