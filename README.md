@@ -50,10 +50,10 @@ Aquí se detalla un análisis de datos a gran escala enfocado en evaluar el éxi
 ```text
 alura_store/ 
 │ 
-├── AluraStoreLatam.ipynb   # Notebook principal con todo el análisis 
-├── README.md               # Este archivo 
-├── requirements.txt 
-└── assets
+├── assets
+├── notebooks
+├── README.md
+└── requirements.txt
 ```
 
 ## 🚀 Cómo Ejecutar el Proyecto
@@ -128,6 +128,7 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 * **Autor:** Alex Rojas Segovia
 * **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/alexrojassegovia/)
 * **Repositorio:** [github.com/eppursimuove9/alura-store](https://github.com/eppursimuove9/alura-store)
+
 
 
 
